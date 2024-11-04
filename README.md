@@ -1,5 +1,10 @@
-👋 Hi, I’m Chioma Okoli. I am a Data Analyst with experience in Excel, SQL and Power BI.
-- 📫 How to reach me - chiomaokoli016@gmail.com
+- 👋 Hi, I’m Chioma Okoli. I am a Data Analyst and Entry Specialist proficient in Excel, SQL and Power BI and Google Sheets.
+
+- 🧱 I'm upskilling my Data Analytics skills.
+
+- 👩🏻‍🤝‍👩🏻 I'm interested in Data Analytics and Entry roles (Internships, Freelancing, Remote and Full time Roles).
+
+- 📫 How to reach me - chiomaokoli016@gmail.com and www.linkedin.com/in/chiomaokoli
 
 
 <!---
